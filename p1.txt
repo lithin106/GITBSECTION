@@ -2,8 +2,4 @@ lithin
 chikkamagaluru
 
 
-what
-why
-no
-something
-nothing is here modified 
+changed
